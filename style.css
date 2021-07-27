@@ -1,0 +1,20 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h1{
+   display: inline;
+   font-size: 25px;
+}
+
+.instructionsBtn{
+    float: right;
+    border: 1px solid white;
+}
+
+.playBtn{
+    font-size: 18px;
+    width: 80px;
+}
+
